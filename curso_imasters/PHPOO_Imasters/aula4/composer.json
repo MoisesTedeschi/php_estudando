@@ -1,0 +1,20 @@
+{
+	"name": "moisestedeschi/curso_phpoo",
+	"description": "Framework do curso de PHP orientado a objetos",
+	"minimum-stability": "stable",
+	"authors": [
+		{
+			"name": "Moisés Tedeschi",
+			"email": "moisestedeschi@gmail.com"
+		}
+	],
+	"name": "",
+	"autoload": {
+		"psr-0": {
+			"Core": "src"
+		}
+	},
+	"require": {
+		"php": ">=5.5.0"
+	}
+}
